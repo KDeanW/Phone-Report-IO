@@ -4,7 +4,7 @@ phone use report system for school staff.
 # Reports record
   - # Reports
       - record of responses from the google form connected to the sheet.
-# Report students
+# Reporting
   - # Most Reported
       - contains a list of the 10 students who have been reported the most, how many times they've been caught, and a form link pre-filled with thier name.
   - # Verified Reporters
