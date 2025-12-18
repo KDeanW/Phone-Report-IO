@@ -20,3 +20,6 @@ phone use report system for school staff.
       - contains an alphebetical by username table of all students usernames, school emails, parent emails, a pre-generated message for thier parents, and form link pre-filled with thier name.
 # Students info
   - list of all student usernames and parent emails that is referanced by the rest of the sheet.
+
+## notes
+  - automated emails not set up
